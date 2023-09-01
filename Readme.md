@@ -1,4 +1,4 @@
-## Calculo IMC
+## Calculo IMC 🧮
 
 Repositório criado para envio de trabalho apresentado como requisito parcial para a obtenção de média semestral na disciplina Linguagem de Programação da faculdade Anhanguera.
 
